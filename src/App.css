@@ -21,3 +21,20 @@
 .App-link {
   color: #61dafb;
 }
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10wh;
+  background: rgb(36, 241, 36);
+  color: white;
+}
+
+.nav-links{
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}

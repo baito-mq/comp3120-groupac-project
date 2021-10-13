@@ -1,9 +1,12 @@
+import React from 'react'
 import './App.css';
 import logo from './frog.png';
+import Nav from './components/Nav.js';
 
 function App() {
   return (
     <div className="App">
+      <Nav />
       <header className="App-header">
         <p>
           ribb.it<br/>
