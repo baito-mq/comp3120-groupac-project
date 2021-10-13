@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
 .App {
   text-align: center;
 }
@@ -8,7 +10,7 @@
 }
 
 .App-header {
-  background-color: #009c41;
+  background-color: #cacaca;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,4 +39,12 @@ nav {
   justify-content: space-around;
   align-items: center;
   list-style: none;
+}
+
+
+.post {
+  background: #f4f4f4;
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
 }
