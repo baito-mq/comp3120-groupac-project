@@ -4,7 +4,7 @@ import React from 'react'
 const Nav = () => {
         return (
                 <nav>
-                        <h1>Logo</h1>
+                        <h1>ribb.it</h1>
                         <ul className="nav-links">
                                 <li>Home</li>
                                 <li>Top Forums</li>
